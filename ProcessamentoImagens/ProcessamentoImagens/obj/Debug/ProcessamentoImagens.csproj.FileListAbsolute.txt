@@ -1,0 +1,19 @@
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe.config
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csprojResolveAssemblyReference.cache
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.Properties.Resources.resources
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.GenerateResource.Cache
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.frmPrincipal.resources
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.pdb
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.exe
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.pdb
+C:\Users\Alexandre\Desktop\Aula1\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe.config
+C:\Users\Alexandre\Desktop\Aula1\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe
+C:\Users\Alexandre\Desktop\Aula1\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.pdb
+C:\Users\Alexandre\Desktop\Aula1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csprojAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Aula1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.frmPrincipal.resources
+C:\Users\Alexandre\Desktop\Aula1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.Properties.Resources.resources
+C:\Users\Alexandre\Desktop\Aula1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.GenerateResource.cache
+C:\Users\Alexandre\Desktop\Aula1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\Aula1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.exe
+C:\Users\Alexandre\Desktop\Aula1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.pdb
